@@ -29,13 +29,13 @@ function sayHiToGrandma(string)
 
 {
 
-if string.toLowerCase()  === string
+if (string.toLowerCase()  === string )
 {
 
-return 
+return
 
 }
-
+}
 //else if string = string.toUpperCase()
 
 //{
@@ -50,4 +50,3 @@ return
 //return "I love you, too."
 
 //}
-}

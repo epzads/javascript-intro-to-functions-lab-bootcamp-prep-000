@@ -28,24 +28,27 @@ console.log(string.toLowerCase())
 function sayHiToGrandma(string)
 
 {
-if string == string.toLowerCase()
+
+  var lowercase = hello
+if lowercase = string.toLowerCase()
 {
 
 return "I can't  hear you!"
 
 }
 
-else if string == string.toUpperCase()
+//else if string = string.toUpperCase()
 
-{
+//{
 
-  return "YES INDEED!"
-}
+//  return "YES INDEED!"
+//}
 
-else
+//else
 
-{
+//{
 
-return "I love you, too."
+//return "I love you, too."
 
+//}
 }

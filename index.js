@@ -29,7 +29,7 @@ function sayHiToGrandma(string)
 
 {
 
-  var lowercase = hello
+  var lowercase = "hello"
 if lowercase === string.toLowerCase()
 {
 
